@@ -1,4 +1,4 @@
-# -Personal-Blog-Website
+## Personal-Blog-Website
 📝 Huma's Blog 
 Elevo Pathways | Front-End Web Developer Internship | Task 2
 
